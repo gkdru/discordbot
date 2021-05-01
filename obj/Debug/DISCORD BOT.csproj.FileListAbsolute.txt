@@ -1,0 +1,107 @@
+D:\c#\DISCORD BOT\bin\Debug\DISCORD BOT.exe.config
+D:\c#\DISCORD BOT\bin\Debug\DISCORD BOT.exe
+D:\c#\DISCORD BOT\bin\Debug\DISCORD BOT.pdb
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Commands.dll
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Core.dll
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Rest.dll
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Webhook.dll
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.dll
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\c#\DISCORD BOT\bin\Debug\Newtonsoft.Json.dll
+D:\c#\DISCORD BOT\bin\Debug\System.Collections.Immutable.dll
+D:\c#\DISCORD BOT\bin\Debug\System.Interactive.Async.dll
+D:\c#\DISCORD BOT\bin\Debug\System.Linq.Async.dll
+D:\c#\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Commands.xml
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Core.xml
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Rest.xml
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.Webhook.xml
+D:\c#\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.xml
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\c#\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\c#\DISCORD BOT\bin\Debug\Newtonsoft.Json.xml
+D:\c#\DISCORD BOT\bin\Debug\System.Collections.Immutable.xml
+D:\c#\DISCORD BOT\bin\Debug\System.Interactive.Async.xml
+D:\c#\DISCORD BOT\bin\Debug\System.Linq.Async.xml
+D:\c#\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c#\DISCORD BOT\obj\Debug\DISCORD BOT.csprojAssemblyReference.cache
+D:\c#\DISCORD BOT\obj\Debug\DISCORD BOT.csproj.CoreCompileInputs.cache
+D:\c#\DISCORD BOT\obj\Debug\DISCORD BOT.csproj.CopyComplete
+D:\c#\DISCORD BOT\obj\Debug\DISCORD BOT.exe
+D:\c#\DISCORD BOT\obj\Debug\DISCORD BOT.pdb
+Z:\DISCORD BOT\bin\Debug\DISCORD BOT.exe.config
+Z:\DISCORD BOT\bin\Debug\DISCORD BOT.exe
+Z:\DISCORD BOT\bin\Debug\DISCORD BOT.pdb
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Commands.dll
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Core.dll
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Rest.dll
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Webhook.dll
+Z:\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.dll
+Z:\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+Z:\DISCORD BOT\bin\Debug\Newtonsoft.Json.dll
+Z:\DISCORD BOT\bin\Debug\System.Collections.Immutable.dll
+Z:\DISCORD BOT\bin\Debug\System.Interactive.Async.dll
+Z:\DISCORD BOT\bin\Debug\System.Linq.Async.dll
+Z:\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Commands.xml
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Core.xml
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Rest.xml
+Z:\DISCORD BOT\bin\Debug\Discord.Net.Webhook.xml
+Z:\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.xml
+Z:\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+Z:\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+Z:\DISCORD BOT\bin\Debug\Newtonsoft.Json.xml
+Z:\DISCORD BOT\bin\Debug\System.Collections.Immutable.xml
+Z:\DISCORD BOT\bin\Debug\System.Interactive.Async.xml
+Z:\DISCORD BOT\bin\Debug\System.Linq.Async.xml
+Z:\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\DISCORD BOT\obj\Debug\DISCORD BOT.csprojAssemblyReference.cache
+Z:\DISCORD BOT\obj\Debug\DISCORD BOT.csproj.CopyComplete
+Z:\DISCORD BOT\obj\Debug\DISCORD BOT.exe
+Z:\DISCORD BOT\obj\Debug\DISCORD BOT.pdb
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\DISCORD BOT.exe.config
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\DISCORD BOT.exe
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\DISCORD BOT.pdb
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Core.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Interactive.Async.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Linq.Async.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Core.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Interactive.Async.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Linq.Async.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Амир\Desktop\DISCORD BOT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Амир\Desktop\DISCORD BOT\obj\Debug\DISCORD BOT.csprojAssemblyReference.cache
+C:\Users\Амир\Desktop\DISCORD BOT\obj\Debug\DISCORD BOT.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\DISCORD BOT\obj\Debug\DISCORD BOT.csproj.CopyComplete
+C:\Users\Амир\Desktop\DISCORD BOT\obj\Debug\DISCORD BOT.exe
+C:\Users\Амир\Desktop\DISCORD BOT\obj\Debug\DISCORD BOT.pdb
